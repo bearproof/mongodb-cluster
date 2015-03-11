@@ -3,5 +3,5 @@ source 'https://api.berkshelf.com'
 
 metadata
 
-cookbook 'mongodb', git: 'https://github.com/ceejh/chef-mongodb.git', branch: 'working'
+cookbook 'mongodb', git: 'https://github.com/bearproof/chef-mongodb.git', branch: 'master'
 cookbook 'chef-solo-search'
